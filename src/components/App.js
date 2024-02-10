@@ -4,6 +4,7 @@ import SpicyFoodList from "./SpicyFoodList";
 function App() {
   return (
     <div>
+      
       <h3>SpicyFoodList</h3>
       <SpicyFoodList />
     </div>
